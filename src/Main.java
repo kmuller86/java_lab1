@@ -5,9 +5,9 @@ public class Main {
     public static void main(String[] args) {
         /* ćw.4 */
         /* zad.1 proszę dodać kilka złożonych operacji uzywając kilku operatorów arytmetycznych i logicznych */
-        int zmienna = 10;
+        int zmienna = 9;
         if (zmienna <= 10) {
-            System.out.println("Liczba " + zmienna + " jest mniejsza od 10");
+            System.out.println("Liczba " + zmienna + " jest mniejsze lub równe 10");
         }
 
         if (zmienna < 10) {
