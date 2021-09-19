@@ -29,5 +29,6 @@ public class Main {
         System.out.println("Jedno minus drugie = " + (zmienna1 - zmienna2));
         System.out.println("Jedno razy drugie = " + (zmienna1 * zmienna2));
         System.out.println("Jedno przez drugie = " + (zmienna1 / zmienna2));
+        System.out.println("Jedno modulo drugie = " + (zmienna1 % zmienna2));
     }
 }
