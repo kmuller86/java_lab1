@@ -1,3 +1,5 @@
+import java.util.Date;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -8,5 +10,7 @@ public class Main {
         System.out.print("To jest obok tego, co było wyżej");
         System.out.printf("\nCzy %s to więcej niż %d ?\n", "jeden", 0);
         System.out.println("Jest git ;)");
+        System.out.printf("%f%n", 5.1473);
+        System.out.printf("'%S' %n", "Sławek Majchrzak");
     }
 }
