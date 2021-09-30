@@ -65,3 +65,4 @@ public class Main {
         System.out.println("((x > z) || (c && b)) : " + ((x > z) || (c && b))); // false
     }
 }
+// ćw. 4
